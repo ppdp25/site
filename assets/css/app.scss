@@ -1,0 +1,22 @@
+---
+---
+//$primary: #0073c0;
+$primary: #343231;
+$secondary: #343231;
+
+
+//$footer-background-color: lightgray;
+
+
+// Import Main CSS file from theme
+@import "main";
+
+.image-row {
+        display: flex;
+        align-items: center; /* Vertically centers the images */
+        justify-content: space-around; /* Distributes images evenly in the row */
+    }
+.image-row img {
+        max-width: 100%; /* Ensures images fit within their containers */
+        height: auto; /* Maintains aspect ratio */
+}

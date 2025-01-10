@@ -1,0 +1,38 @@
+title: PPDP 2025
+email: carlos.olarte@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  The 27th International Symposium on Principles and Practice of Declarative Programming
+
+#baseurl: "/" # the subpath of your site, e.g. /blog
+#url: "https://lfmtp.org/" # the base hostname & protocol for your site
+
+# With GitHub Pages Gem
+#remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+#remote-theme: jekyll-theme-conference
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll/scholar
+#   - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - vendor
+  - README.md
+
+# Scholar
+scholar:
+  bibliography_template: bibtex
+  details_layout: none
+
+permalink: pretty
+fixed_navbar: top
+
+#theme_color: '#0073c0'
+#
+sidebar:
+  - news
