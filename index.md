@@ -13,8 +13,7 @@ Declarative Programming. PPDP will be co-located with [ICLP
 2025](https://iclp25.demacs.unical.it/) and held on 10-11 September 2025 at the
 University of Calabria, Rende, Italy.
 
-Scope
------
+## Scope
 
 The PPDP 2025 symposium brings together researchers from the declarative
 programming communities, including those working in the functional, logic,
@@ -52,7 +51,7 @@ include, but are not limited to:
   outside of CS; declarative programming pearls; practical experience reports
   and industrial application; education.
 
-# Call for Papers
+## Call for Papers
 
 Submissions can be made in three categories:
 
@@ -149,16 +148,16 @@ Conference: 10-11 Sept 2025
 
 ## Organization
 
-*Program committee chairs*:  [Małgorzata
+**Program committee chairs**:  [Małgorzata
 Biernacka](https://ii.uni.wroc.pl//~mabi/) (Institute of Computer Science,
 University of Wroclaw) and [Carlos
 Olarte](https://sites.google.com/site/carlosolarte/) (University Sorbonne Paris
-Nord and Laboratoire d'Informatique de Paris Nord). mabi@cs.uni.wroc.pl
+Nord and Laboratoire d'Informatique de Paris Nord). 
 
 
 *General chairs*: 
 
-*Steering committee chair*: James Cheney (Edinburgh University)
+**Steering committee chair**: James Cheney (Edinburgh University)
 
 ## Program committee
 
