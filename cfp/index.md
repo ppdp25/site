@@ -6,5 +6,5 @@ show_sidebar: true
 hide_footer: false
 ---
 
-# Program 
+# Call for Papers
 TBA
