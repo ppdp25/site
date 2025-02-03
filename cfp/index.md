@@ -13,10 +13,10 @@ hide_footer: false
 
 September 10-11, 2025 
 University of Calabria, Rende, Italy
-https://ppdp25.github.io/site/
 
-Collocated with ICLP 2025.
-https://iclp25.demacs.unical.it/
+[https://ppdp25.github.io/site/](https://ppdp25.github.io/site/)
+
+Collocated with [ICLP 2025](https://iclp25.demacs.unical.it/)
 
 ## Important dates
 
@@ -34,8 +34,8 @@ stimulate research in the use of logical formalisms and methods for analyzing,
 performing, specifying, and reasoning about computations, including mechanisms
 for concurrency, security, static analysis, and verification.
 
-PPDP 25 will be held at University of Calabria, Rende, Italy, as part of ICLP
-2025 (https://iclp25.demacs.unical.it/). At least one of the authors of an
+PPDP 25 will be held at University of Calabria, Rende, Italy, as part of [ICLP
+2025](https://iclp25.demacs.unical.it/). At least one of the authors of an
 accepted paper is expected to attend the conference and present the paper.
 
 Submissions are invited on all topics related to declarative programming, from
@@ -122,18 +122,15 @@ will not be included in the final published version.
 ## Submission Guidelines
 
 Submissions will be made via EasyChair. The submission webpage for PPDP 25 is
-https://easychair.org/conferences/?conf=iclp25 (select PPDP track).
+[https://easychair.org/conferences/?conf=iclp25](https://easychair.org/conferences/?conf=iclp25) (select PPDP track).
 
-For each paper category, you must use the most recent version of the "Current
-ACM Master Template" which is available at
-(https://www.acm.org/publications/proceedings-template). You must use the LaTeX
+For each paper category, you must use the most recent version of the [Current
+ACM Master Template](https://www.acm.org/publications/proceedings-template). You must use the LaTeX
 sigconf proceedings template as the conference organizers are unable to process
 final submissions in other formats.
 
-Authors should note ACM's statement on author's rights
-(http://authors.acm.org/) which apply to final papers. Submitted papers should
-meet the requirements of ACM's plagiarism policy
-(http://www.acm.org/publications/policies/plagiarism_policy).
+Authors should note [ACM's statement on author's rights](http://authors.acm.org/) which apply to final papers. Submitted papers should
+meet the requirements of [ACM's plagiarism policy](http://www.acm.org/publications/policies/plagiarism_policy).
 
 ## Note About the New ACM Open Access Model
 
@@ -142,13 +139,13 @@ Conference Proceedings Series (ICPS). Authors based at institutions that are
 not yet part of the ACM Open program and do not qualify for a waiver will be
 required to pay an article processing charge (APC) to publish their ICPS
 article in the ACM Digital Library. To determine whether or not an APC will be
-applicable to your article, please follow the detailed guidance here:
-https://www.acm.org/publications/icps/author-guidance.
+applicable to your article, please follow the [detailed guidance](https://www.acm.org/publications/icps/author-guidance).
 
 Further information may be found on the ACM website, as follows:
 
-Full details of the new ICPS publishing model: https://www.acm.org/publications/icps/faq
-Full details of the ACM Open program: https://www.acm.org/publications/openaccess
+Full details of the new ICPS publishing model: [https://www.acm.org/publications/icps/faq](https://www.acm.org/publications/icps/faq)
+
+Full details of the ACM Open program: [https://www.acm.org/publications/openaccess](https://www.acm.org/publications/openaccess)
 
 Please direct all questions about the new model to icps-info@acm.org.
 
