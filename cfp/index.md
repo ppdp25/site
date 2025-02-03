@@ -177,4 +177,4 @@ Please direct all questions about the new model to icps-info@acm.org.
 - Claudio Sacerdoti Coen (University of Bologna, Italy)
 - Filip Sieczkowski (Heriot-Watt University, UK)
 - Frank Valencia (LIX, École Polytechnique de Paris, France)
-- German Vidal (Universitat Politecnica de Valencia, Spain)
+- Germán Vidal (Universitat Politecnica de Valencia, Spain)
