@@ -153,26 +153,26 @@ Please direct all questions about the new model to icps-info@acm.org.
 
 ## Program Chairs
 
-Małgorzata Biernacka (Institute of Computer Science, University of Wrocław, Poland)
-Carlos Olarte (LIPN and University Sorbonne Paris Nord, France).
+- Małgorzata Biernacka (Institute of Computer Science, University of Wrocław, Poland)
+- Carlos Olarte (LIPN and University Sorbonne Paris Nord, France).
 
 ## Program Committee
 
-Salvador Abreu (University of Évora, Portugal)
-Sandra Alves (University of Porto, Portugal)
-Roman Barták (Charles University, Czech Republic)
-Alessandro Bruni (IT-University of Copenhagen, Denmark)
-Moreno Falaschi (University of Siena, Italy)
-Fabio Gaducci (University of Pisa, Italy)
-Cinzia di Giusto (Université Côte d’Azur, France)
-Michael Hanus (University of Kiel, Germany)
-Thomas Hildebrandt (IT University of Copenhagen, Denmark)
-Yukiyoshi Kameyama (University of Tsukuba, Japan). 
-Delia Kesner (University Paris Cité, France)
-Cosimo Laneve (University of Bologna, Italy)
-Alberto Momigliano (University of Milan, Italy)
-Ruben Rubio (Universidad Complutense de Madrid, Spain)
-Claudio Sacerdoti Coen (University of Bologna, Italy)
-Filip Sieczkowski (Heriot-Watt University, UK)
-Frank Valencia (LIX, École Polytechnique de Paris, France)
-German Vidal (Universitat Politecnica de Valencia, Spain)
+- Salvador Abreu (University of Évora, Portugal)
+- Sandra Alves (University of Porto, Portugal)
+- Roman Barták (Charles University, Czech Republic)
+- Alessandro Bruni (IT-University of Copenhagen, Denmark)
+- Moreno Falaschi (University of Siena, Italy)
+- Fabio Gaducci (University of Pisa, Italy)
+- Cinzia di Giusto (Université Côte d’Azur, France)
+- Michael Hanus (University of Kiel, Germany)
+- Thomas Hildebrandt (IT University of Copenhagen, Denmark)
+- Yukiyoshi Kameyama (University of Tsukuba, Japan). 
+- Delia Kesner (University Paris Cité, France)
+- Cosimo Laneve (University of Bologna, Italy)
+- Alberto Momigliano (University of Milan, Italy)
+- Ruben Rubio (Universidad Complutense de Madrid, Spain)
+- Claudio Sacerdoti Coen (University of Bologna, Italy)
+- Filip Sieczkowski (Heriot-Watt University, UK)
+- Frank Valencia (LIX, École Polytechnique de Paris, France)
+- German Vidal (Universitat Politecnica de Valencia, Spain)
