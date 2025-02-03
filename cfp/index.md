@@ -165,7 +165,7 @@ Please direct all questions about the new model to icps-info@acm.org.
 - Fabio Gaducci (University of Pisa, Italy)
 - Cinzia di Giusto (Université Côte d’Azur, France)
 - Michael Hanus (University of Kiel, Germany)
-- Thomas Hildebrandt (IT University of Copenhagen, Denmark)
+- Thomas Hildebrandt (University of Copenhagen, Denmark)
 - Yukiyoshi Kameyama (University of Tsukuba, Japan). 
 - Delia Kesner (University Paris Cité, France)
 - Cosimo Laneve (University of Bologna, Italy)
