@@ -173,5 +173,6 @@ Please direct all questions about the new model to icps-info@acm.org.
 - Ruben Rubio (Universidad Complutense de Madrid, Spain)
 - Claudio Sacerdoti Coen (University of Bologna, Italy)
 - Filip Sieczkowski (Heriot-Watt University, UK)
+- Bernardo Toninho (NOVA FCT and NOVA LINCS, Portugal)
 - Frank Valencia (LIX, École Polytechnique de Paris, France)
 - Germán Vidal (Universitat Politecnica de Valencia, Spain)
