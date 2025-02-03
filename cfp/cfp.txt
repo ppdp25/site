@@ -1,14 +1,5 @@
----
-layout: page
-title: PPDP  2025
-toc: false
-show_sidebar: true
-hide_footer: false
----
-
-[TXT version](./cfp.txt)
-
-# The 27th International Symposium on Principles and Practice of Declarative Programming
+The 27th International Symposium on Principles 
+and Practice of Declarative Programming
 
 Collocated with ICLP 2025.
 
@@ -16,14 +7,14 @@ September 10-11, 2025
 University of Calabria, Rende, Italy
 https://ppdp25.github.io/site/
 
-## Important dates
+# Important dates
 
 - Title and abstract registration: 18 May 2025 (AoE)
 - Paper submission: 30 May 2025 (AoE)
 - Author notification: 7 July 2025
 - Final paper version: 21 July 2025
 
-## Overview
+# Overview
 
 The PPDP 2025 symposium brings together researchers from the declarative
 programming communities, including those working in the functional, logic,
@@ -65,7 +56,7 @@ include, but are not limited to:
   outside of CS; declarative programming pearls; practical experience reports
   and industrial application; education.
 
-## Paper Submission 
+# Paper Submission 
 
 Submissions can be made in three categories:
 
@@ -117,7 +108,7 @@ mentioned page limits. Reviewers are not required to study extended versions or
 any material beyond the respective page limit. Material beyond the page limit
 will not be included in the final published version.
 
-## Submission Guidelines
+# Submission Guidelines
 
 Submissions will be made via EasyChair. The submission webpage for PPDP 25 is
 https://easychair.org/conferences/?conf=iclp25 (select PPDP track).
@@ -133,7 +124,7 @@ Authors should note ACM's statement on author's rights
 meet the requirements of ACM's plagiarism policy
 (http://www.acm.org/publications/policies/plagiarism_policy).
 
-## Note About the New ACM Open Access Model
+# Note About the New ACM Open Access Model
 
 ACM has introduced a new open access publishing model for the International
 Conference Proceedings Series (ICPS). Authors based at institutions that are
@@ -151,12 +142,12 @@ Full details of the ACM Open program: https://www.acm.org/publications/openacces
 Please direct all questions about the new model to icps-info@acm.org.
 
 
-## Program Chairs
+# Program Chairs
 
 Małgorzata Biernacka (Institute of Computer Science, University of Wrocław, Poland)
 Carlos Olarte (LIPN and University Sorbonne Paris Nord, France).
 
-## Program Committee
+# Program Committee
 
 Salvador Abreu (University of Évora, Portugal)
 Sandra Alves (University of Porto, Portugal)
