@@ -10,11 +10,13 @@ hide_footer: false
 
 # The 27th International Symposium on Principles and Practice of Declarative Programming
 
-Collocated with ICLP 2025.
 
 September 10-11, 2025 
 University of Calabria, Rende, Italy
 https://ppdp25.github.io/site/
+
+Collocated with ICLP 2025.
+https://iclp25.demacs.unical.it/
 
 ## Important dates
 

@@ -30,18 +30,19 @@ performing, specifying, and reasoning about computations, including mechanisms
 for concurrency, security, static analysis, and verification.
 
 ## Call for Papers
-The CFP is available in this [link](./cfp)
+The CFP is available in this [link](./cfp).
 
 
 ## Organization
 
 **Program committee chairs**:  
+
 - [Małgorzata Biernacka](https://ii.uni.wroc.pl//~mabi/) (Institute of Computer Science, University of Wroclaw) 
+- [Carlos Olarte](https://sites.google.com/site/carlosolarte/) (University Sorbonne Paris Nord and Laboratoire d'Informatique de Paris Nord). 
 
--[Carlos Olarte](https://sites.google.com/site/carlosolarte/) (University Sorbonne Paris Nord and Laboratoire d'Informatique de Paris Nord). 
 
-
-**Steering committee chair**: James Cheney (Edinburgh University)
+**Steering committee chair**: 
+- James Cheney (Edinburgh University)
 
 
 ![Image Description](images/acm-small.jpeg) ![Image Description](images/siglog.jpeg) ![Image Description](images/sigplan-small.jpg)
