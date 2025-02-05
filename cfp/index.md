@@ -162,7 +162,7 @@ Please direct all questions about the new model to icps-info@acm.org.
 - Roman Barták (Charles University, Czech Republic)
 - Alessandro Bruni (IT-University of Copenhagen, Denmark)
 - Moreno Falaschi (University of Siena, Italy)
-- Fabio Gaducci (University of Pisa, Italy)
+- Fabio Gadducci (University of Pisa, Italy)
 - Cinzia di Giusto (Université Côte d’Azur, France)
 - Michael Hanus (University of Kiel, Germany)
 - Thomas Hildebrandt (University of Copenhagen, Denmark)
