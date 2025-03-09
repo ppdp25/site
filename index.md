@@ -44,6 +44,32 @@ The CFP is available in this [link](./cfp).
 **Steering committee chair**: 
 - James Cheney (Edinburgh University)
 
+## Program Committee
 
-![Image Description](images/acm-small.jpeg) ![Image Description](images/siglog.jpeg) ![Image Description](images/sigplan-small.jpg)
+- Salvador Abreu (University of Évora, Portugal)
+- Sandra Alves (University of Porto, Portugal)
+- Roman Barták (Charles University, Czech Republic)
+- Alessandro Bruni (IT-University of Copenhagen, Denmark)
+- Moreno Falaschi (University of Siena, Italy)
+- Fabio Gadducci (University of Pisa, Italy)
+- Cinzia di Giusto (Université Côte d’Azur, France)
+- Michael Hanus (University of Kiel, Germany)
+- Thomas Hildebrandt (University of Copenhagen, Denmark)
+- Yukiyoshi Kameyama (University of Tsukuba, Japan). 
+- Delia Kesner (University Paris Cité, France)
+- Cosimo Laneve (University of Bologna, Italy)
+- Alberto Momigliano (University of Milan, Italy)
+- Ruben Rubio (Universidad Complutense de Madrid, Spain)
+- Claudio Sacerdoti Coen (University of Bologna, Italy)
+- Filip Sieczkowski (Heriot-Watt University, UK)
+- Bernardo Toninho (NOVA FCT and NOVA LINCS, Portugal)
+- Frank Valencia (LIX, École Polytechnique de Paris, France)
+- Germán Vidal (Universitat Politecnica de Valencia, Spain)
+
+
+![ACM](images/acm_logo_tablet.jpg) 
+
+![Image Description](images/ACM-In-Cooperation.jpg)
+
+![Image Description](images/SIGLOG.png) 
 
