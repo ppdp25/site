@@ -69,10 +69,8 @@ The CFP is available in this [link](./cfp).
 - Germán Vidal (Universitat Politecnica de Valencia, Spain)
 
 
-<img src="acm_logo_tablet.jpg" alt="ACM" width="200"/>
-
-<img src="images/ACM-In-Cooperation.jpg" alt="ACM in Coopertaion" width="200"/>
-
-<img src="images/SIGLOG.png" alt="SIGLOG" width="200"/>
+<img src="images/acm_logo_tablet.jpg" alt="ACM" width="250"/>
+<img src="images/ACM-In-Cooperation.jpg" alt="ACM in Coopertaion" width="250"/>
+<img src="images/SIGLOG.png" alt="SIGLOG" width="250"/>
 
 
