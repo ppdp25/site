@@ -13,7 +13,8 @@ Declarative Programming. PPDP will be co-located with [ICLP
 2025](https://iclp25.demacs.unical.it/) and held on 10-11 September 2025 at the
 University of Calabria, Rende, Italy.
 
-PPDP is _in cooperation with ACM [SIGLOG](https://siglog.org/)_. 
+PPDP is _in cooperation with ACM_ [SIGLOG](https://siglog.org/)
+and [SIGPLAN](https://www.sigplan.org/). 
 
 ## Important dates
 
@@ -71,6 +72,8 @@ The CFP is available in this [link](./cfp).
 
 <img src="images/acm_logo_tablet.jpg" alt="ACM" width="250"/>
 <img src="images/ACM-In-Cooperation.jpg" alt="ACM in Coopertaion" width="250"/>
+
 <img src="images/SIGLOG.png" alt="SIGLOG" width="250"/>
+<img src="images/sigplan.jpg" alt="SIGPLAN" width="250"/>
 
 
