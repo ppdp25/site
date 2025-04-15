@@ -8,6 +8,9 @@ hide_footer: false
 
 # PPDP 2025
 
+<img src="./images/unical-rende.jpg" style="width: 100%;" alt="University of Calabria, Rende">
+
+
 Welcome to the 27th International Symposium on Principles and Practice of
 Declarative Programming. PPDP will be co-located with [ICLP
 2025](https://iclp25.demacs.unical.it/) and held on 10-11 September 2025 at the
