@@ -15,4 +15,9 @@ Professor of Computer Science at the University of Bologna since November 2015. 
 ### TBA
 
 
- 
+## [Robbert Krebbers](https://robbertkrebbers.nl/)
+
+<img src="https://robbertkrebbers.nl/me.jpg" alt="Robbert Krebbers" width="200"/>
+
+Associate professor (universitair hoofddocent, ius promovendi) and vice department head of the 
+Department of Software Science of Institute for Computing and Information Sciences at Radboud University Nijmegen, The Netherlands.
