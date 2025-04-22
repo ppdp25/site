@@ -143,6 +143,10 @@ Full details of the ACM Open program: https://www.acm.org/publications/openacces
 
 Please direct all questions about the new model to icps-info@acm.org.
 
+# Invited Speakers
+
+Ugo Dal Lago (University of Bologna, Italy)
+Robbert Krebbers (Radboud University Nijmegen, The Netherlands)
 
 # Program Chairs
 
