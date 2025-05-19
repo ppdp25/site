@@ -10,6 +10,7 @@ hide_footer: false
 
 # The 27th International Symposium on Principles and Practice of Declarative Programming
 
+✨ **Extended deadline**
 
 September 10-11, 2025 
 University of Calabria, Rende, Italy
@@ -20,8 +21,8 @@ Collocated with [ICLP 2025](https://iclp25.demacs.unical.it/)
 
 ## Important dates
 
-- Title and abstract registration: 18 May 2025 (AoE)
-- Paper submission: 30 May 2025 (AoE)
+- ✨ Title and abstract registration: <del>18 May 2025</del> **26 May 2025** (AoE)
+- ✨ Paper submission: <del>30 May 2025</del> **02 June 2025** (AoE)
 - Author notification: 7 July 2025
 - Final paper version: 21 July 2025
 
