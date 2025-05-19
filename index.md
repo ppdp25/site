@@ -10,6 +10,7 @@ hide_footer: false
 
 <img src="./images/unical-rende.jpg" style="width: 100%;" alt="University of Calabria, Rende">
 
+✨ **Extended deadline**
 
 Welcome to the 27th International Symposium on Principles and Practice of
 Declarative Programming. PPDP will be co-located with [ICLP
@@ -21,8 +22,9 @@ and [SIGPLAN](https://www.sigplan.org/).
 
 ## Important dates
 
-- Title and abstract registration: 18 May 2025 (AoE)
-- Paper submission: 30 May 2025 (AoE)
+
+- ✨ Title and abstract registration: <del>18 May 2025</del> *26 May 2025* (AoE)
+- ✨ Paper submission: <del>30 May 2025</del> 02 June 2025 (AoE)
 - Author notification: 7 July 2025
 - Final paper version: 21 July 2025
 
