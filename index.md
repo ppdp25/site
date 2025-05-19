@@ -23,8 +23,8 @@ and [SIGPLAN](https://www.sigplan.org/).
 ## Important dates
 
 
-- ✨ Title and abstract registration: <del>18 May 2025</del> *26 May 2025* (AoE)
-- ✨ Paper submission: <del>30 May 2025</del> 02 June 2025 (AoE)
+- ✨ Title and abstract registration: <del>18 May 2025</del> **26 May 2025** (AoE)
+- ✨ Paper submission: <del>30 May 2025</del> **02 June 2025** (AoE)
 - Author notification: 7 July 2025
 - Final paper version: 21 July 2025
 
