@@ -82,4 +82,4 @@ The CFP is available in this [link](./cfp).
 <a href="https://siglog.org/"><img src="images/SIGLOG.png" alt="SIGLOG" width="250"/></a>
 <a href="https://www.sigplan.org/"><img src="images/sigplan.jpg" alt="SIGPLAN" width="250"/></a>
 
-<a href="https://logicprogramming.org/"><img src="images/alp.jpg" alt="ACM" width="250"/></a>
+<a href="https://logicprogramming.org/"><img src="images/alp.jpg" alt="ACM" width="320"/></a>
