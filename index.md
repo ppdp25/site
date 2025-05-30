@@ -74,11 +74,12 @@ The CFP is available in this [link](./cfp).
 - Frank Valencia (LIX, École Polytechnique de Paris, France)
 - Germán Vidal (Universitat Politecnica de Valencia, Spain)
 
+# Sponsors
 
-<img src="images/acm_logo_tablet.jpg" alt="ACM" width="250"/>
-<img src="images/ACM-In-Cooperation.jpg" alt="ACM in Coopertaion" width="250"/>
+<a href="https://www.acm.org/"><img src="images/acm_logo_tablet.jpg" alt="ACM" width="250"/></a>
+<a href="https://www.acm.org/special-interest-groups/volunteer-resources/conference-planning/1-3"><img src="images/ACM-In-Cooperation.jpg" alt="ACM in Coopertaion" width="250"/></a>
 
-<img src="images/SIGLOG.png" alt="SIGLOG" width="250"/>
-<img src="images/sigplan.jpg" alt="SIGPLAN" width="250"/>
+<a href="https://siglog.org/"><img src="images/SIGLOG.png" alt="SIGLOG" width="250"/></a>
+<a href="https://www.sigplan.org/"><img src="images/sigplan.jpg" alt="SIGPLAN" width="250"/></a>
 
-
+<a href="https://logicprogramming.org/"><img src="images/alp.jpg" alt="ACM" width="250"/></a>
