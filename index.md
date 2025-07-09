@@ -10,6 +10,14 @@ hide_footer: false
 
 <img src="./images/unical-rende.jpg" style="width: 100%;" alt="University of Calabria, Rende">
 
+📣 **Registration and Venue**
+
+*Early registration* is 🔔open until July🔔, and Late until August.
+
+For registration, please visit:  https://iclp25.demacs.unical.it/registration
+
+For discounted accommodation, please visit: https://iclp25.demacs.unical.it/venue/accommodation
+
 📣 **Accepted papers**
 The list of accepted papers is available [here](./program/index.md).
 
