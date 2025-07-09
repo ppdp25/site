@@ -10,6 +10,9 @@ hide_footer: false
 
 <img src="./images/unical-rende.jpg" style="width: 100%;" alt="University of Calabria, Rende">
 
+📣 **Accepted papers**
+The list of accepted papers is available [here](./program/index.md).
+
 ✨ **Extended deadline**
 
 Welcome to the 27th International Symposium on Principles and Practice of
