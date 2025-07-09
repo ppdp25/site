@@ -12,11 +12,11 @@ hide_footer: false
 
 📣 **Registration and Venue**
 
-*Early registration* is 🔔open until July🔔, and Late until August.
+_Early registration_ is 🔔open until July🔔, and Late until August.
 
-For registration, please visit:  https://iclp25.demacs.unical.it/registration
+For registration, please visit:  [https://iclp25.demacs.unical.it/registration](https://iclp25.demacs.unical.it/registration)
 
-For discounted accommodation, please visit: https://iclp25.demacs.unical.it/venue/accommodation
+For discounted accommodation, please visit: [https://iclp25.demacs.unical.it/venue/accommodation](https://iclp25.demacs.unical.it/venue/accommodation)
 
 📣 **Accepted papers**
 The list of accepted papers is available [here](./program/index.md).
