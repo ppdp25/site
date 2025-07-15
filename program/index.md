@@ -7,7 +7,20 @@ hide_footer: false
 ---
 
 # Program 
-TBA
+
+## Wednesday September 10 2025
+
+| Time | Session      | Authors | Paper |
+| ----------- | ----------- | ----------- | ----------- |
+| 08:30-9:20 | 📑Registration | | |
+| 09:20-9:30 | Opening | | |
+| **09:30-10:30** | **Invited Speaker (joint with LOPSTR)** | TBA | chair: TBA |
+| 10:30-11:00 | ☕️_Coffee break_ | | |
+| **10:30-11:30** | **Session 1: Rewriting and Applications** | Chair: TBA | |
+| 10:30-11:00 | | Anna Vitali, Roberto Amadini and Maurizio Gabbrielli. |  Fixture Layout Optimization in Wood Industry: A Case Study. |
+| 11:00-11:30 | | Gerald Whitters, Haoyun Qin, Boon Loo and Carolyn Talcott. |  On the Automated Verification of BGP Convergence. |
+| **11:30-12:30** | **10 Year Most Influential Paper Award** | TBA | TBA |
+
 
 # List of all accepted papers (in no particular order)
 
