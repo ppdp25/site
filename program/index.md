@@ -36,6 +36,7 @@ hide_footer: false
 ## Thursday September 11 2025
 
 | Time | Session      | Authors | Paper |
+| ----------- | ----------- | ----------- | ----------- |
 | 08:30-9:30 | 📑Registration | | |
 | **09:30-10:30** | **Invited Speaker** | Ugo Dal Lago. (TBA) | chair: TBA |
 | 10:30-11:00 | ☕️_Coffee break_ | | |
@@ -43,7 +44,7 @@ hide_footer: false
 | 11:00-11:30 | | Kai-Oliver Prott and Michael Hanus. |  Determinism Types for Functional Logic Programming. | 
 | 11:30-12:00 | | Benedikt M. Rips, Niek Janssen, Mart Lubbers and Pieter Koopman. |  Shallowly Embedded Functions. | 
 | 12:00-12:30 | | Hamza Jaafar and Guilhem Jaber. |  Operational Game Semantics for generative algebraic effects. | 
-| 12:30-13:00 | | Valentin Pasquale and Álvaro García-Pérez. |  An interactive type checker for dependent types with general recursion (System Description). | 
+| 12:30-13:00 | | Renato Neves, José Proença and Juliana Souza. |  An adequate while-language for stochastic hybrid computation. | 
 | 13:00-14:30 | 🥗_Lunch break_ | | |
 | **14:30-16:30** | **Session 5: Logical Frameworks and Type Systems** | Chair: TBA | |
 | 14:30-15:00 | | Anders Schlichtkrull and Morten Konggaard Schou. |  Formalizing Weighted Pushdown Systems in Isabelle/HOL. | 
