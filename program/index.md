@@ -34,6 +34,7 @@ hide_footer: false
 | **18:00-21:00** | 🍽_Joint Excursion & Social Dinner | TBA | |
 
 ## Thursday September 11 2025
+
 | Time | Session      | Authors | Paper |
 | 08:30-9:30 | 📑Registration | | |
 | **09:30-10:30** | **Invited Speaker** | Ugo Dal Lago. | chair: TBA |
