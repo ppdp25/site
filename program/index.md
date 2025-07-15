@@ -14,7 +14,7 @@ hide_footer: false
 | ----------- | ----------- | ----------- | ----------- |
 | 08:30-9:20 | 📑Registration | | |
 | 09:20-9:30 | Opening | | |
-| **09:30-10:30** | **Invited Speaker (joint with LOPSTR)** | TBA | chair: TBA |
+| **09:30-10:30** | **Invited Speaker (joint with LOPSTR)** | Robbert Krebbers. | chair: TBA |
 | 10:30-11:00 | ☕️_Coffee break_ | | |
 | **11:00-12:00** | **Session 1: Rewriting and Applications** | Chair: TBA | |
 | 11:00-11:30 | | Anna Vitali, Roberto Amadini and Maurizio Gabbrielli. |  Fixture Layout Optimization in Wood Industry: A Case Study. |
@@ -33,8 +33,24 @@ hide_footer: false
 | 18:00-18:30 | | Valentin Pasquale and Álvaro García-Pérez. |  An interactive type checker for dependent types with general recursion (System Description). | 
 | **18:00-21:00** | 🍽_Joint Excursion & Social Dinner | TBA | |
 
-
-
+## Thursday September 11 2025
+| Time | Session      | Authors | Paper |
+| 08:30-9:30 | 📑Registration | | |
+| **09:30-10:30** | **Invited Speaker** | Ugo Dal Lago. | chair: TBA |
+| 10:30-11:00 | ☕️_Coffee break_ | | |
+| **11:00-13:00** | **Session 4: Programming Languages** | Chair: TBA | |
+| 11:00-11:30 | | Kai-Oliver Prott and Michael Hanus. |  Determinism Types for Functional Logic Programming. | 
+| 11:30-12:00 | | Benedikt M. Rips, Niek Janssen, Mart Lubbers and Pieter Koopman. |  Shallowly Embedded Functions. | 
+| 12:00-12:30 | | Hamza Jaafar and Guilhem Jaber. |  Operational Game Semantics for generative algebraic effects. | 
+| 12:30-13:00 | | Valentin Pasquale and Álvaro García-Pérez. |  An interactive type checker for dependent types with general recursion (System Description). | 
+| 13:00-14:30 | 🥗_Lunch break_ | | |
+| **14:30-16:30** | **Session 5: Logical Frameworks and Type Systems** | Chair: TBA | |
+| 14:30-15:00 | | Anders Schlichtkrull and Morten Konggaard Schou. |  Formalizing Weighted Pushdown Systems in Isabelle/HOL. | 
+| 15:00-15:30 | | Chase Johnson and Gopalan Nadathur. |  Transporting Theorems about Typeability in LF Across Schematically Defined Contexts. | 
+| 15:30-16:00 | | Beniamino Accattoli, Dan Ghica, Giulio Guerrieri, Claudio Belo Lourenço and Claudio Sacerdoti Coen. |  Closure Conversion, Flat Environments, and the Complexity of Abstract Machines. | 
+| 16:00-16:30 | | Alain Delaet, Sandrine Blazy and Denis Merigoux. |  Abstract machines and small-step semantics: a winning ticket for proof automation? | 
+| 16:30-17:00 | ☕️_Coffee break_ | | |
+| 17:00-17:30 | | | **Closing session** |
 
 # List of all accepted papers (in no particular order)
 
