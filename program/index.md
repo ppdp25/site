@@ -31,13 +31,13 @@ hide_footer: false
 | 17:00-17:30 | | Mart Lubbers and Tim Steenvoorden. |  A Reflection on Task-Oriented Programming. |
 | 17:30-18:00 | | Cinzia Di Giusto, Pascal Urso and Etienne Lozes. | Realisability and Complementability of Multiparty Session Types. | 
 | 18:00-18:30 | | Valentin Pasquale and Álvaro García-Pérez. |  An interactive type checker for dependent types with general recursion (System Description). | 
-| **18:00-21:00** | 🍽_Excursion & Social Dinner | TBA | |
+| **18:30-21:00** | 🍽_Excursion & Social Dinner | TBA | |
 
 ## Thursday September 11 2025
 
 | Time | Session      | Authors | Paper |
 | 08:30-9:30 | 📑Registration | | |
-| **09:30-10:30** | **Invited Speaker** | Ugo Dal Lago. | chair: TBA |
+| **09:30-10:30** | **Invited Speaker** | Ugo Dal Lago. (TBA) | chair: TBA |
 | 10:30-11:00 | ☕️_Coffee break_ | | |
 | **11:00-13:00** | **Session 4: Programming Languages** | Chair: TBA | |
 | 11:00-11:30 | | Kai-Oliver Prott and Michael Hanus. |  Determinism Types for Functional Logic Programming. | 
