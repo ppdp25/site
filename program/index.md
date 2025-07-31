@@ -19,7 +19,7 @@ hide_footer: false
 | **11:00-12:00** | **Session 1: Rewriting and Applications** | Chair: TBA | |
 | 11:00-11:30 | | Anna Vitali, Roberto Amadini and Maurizio Gabbrielli. |  Fixture Layout Optimization in Wood Industry: A Case Study. |
 | 11:30-12:00 | | Gerald Whitters, Haoyun Qin, Boon Loo and Carolyn Talcott. |  On the Automated Verification of BGP Convergence. |
-| **12:00-13:00** | **10 Year Most Influential Paper Award** | TBA | TBA |
+| **12:00-13:00** | **10 Year Most Influential Paper Award** | Peter Van-Roy and Christopher Meiklejohn | Distributed, Coordination-free Programming: 10 Years Later |
 | 13:00-14:30 | 🥗_Lunch break_ | | |
 | **14:30-16:30** | **Session 2: Rewriting** | Chair: TBA | |
 | 14:30-15:00 | | Raúl López-Rueda, Duong Dinh Tran, Canh Minh Do, Santiago Escobar and Kazuhiro Ogata. | Folding Narrowing for the Analysis of Mutual Exclusion Protocols. | 
