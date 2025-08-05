@@ -12,7 +12,20 @@ hide_footer: true
 Professor of Computer Science at the University of Bologna since November 2015. He is also affiliated with INRIA Sophia Antipolis.
 
 
-### TBA
+### Counting Qubits and Gates: Resource Analysis in Quantum Programming Languages
+
+Quantum computing has the potential to revolutionize subfields of computer
+science such as cryptography and optimization by providing efficient solutions
+to problems currently considered intractable classically speaking. However, as
+is well known, today’s quantum hardware remains limited by noise, short
+coherence times, and low qubit counts, making the realization of this potential
+still a distant goal. In this context, estimating the resources required to
+execute quantum programs, such as the number of qubits and quantum gates, is of
+paramount importance. In this talk, we will provide an overview of the emerging
+research area of quantum resource analysis, beginning with an introduction to
+quantum computing and quantum programming languages, followed by a discussion
+of several approaches to resource analysis of quantum programs, without aiming
+for an exhaustive survey.
 
 
 ## [Robbert Krebbers](https://robbertkrebbers.nl/)
