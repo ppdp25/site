@@ -14,7 +14,7 @@ hide_footer: false
 | ----------- | ----------- | ----------- | ----------- |
 | 08:30-9:20 | 📑Registration | | |
 | 09:20-9:30 | Opening | | |
-| **09:30-10:30** | **Invited Speaker (joint with LOPSTR)** | **Robbert Krebbers**. TBA  | chair: TBA |
+| **09:30-10:30** | **Invited Speaker (joint with LOPSTR)** | **Robbert Krebbers**. Mechanized Type Soundness for Substructural Types using Iris  | chair: TBA |
 | 10:30-11:00 | ☕️_Coffee break_ | | |
 | **11:00-12:00** | **Session 1: Rewriting and Applications** | Chair: TBA | |
 | 11:00-11:30 | | Anna Vitali, Roberto Amadini and Maurizio Gabbrielli. |  Fixture Layout Optimization in Wood Industry: A Case Study. |
@@ -38,7 +38,7 @@ hide_footer: false
 | Time | Session      | Authors | Paper |
 | ----------- | ----------- | ----------- | ----------- |
 | 08:30-9:30 | 📑Registration | | |
-| **09:30-10:30** | **Invited Speaker** | Ugo Dal Lago. (TBA) | chair: TBA |
+| **09:30-10:30** | **Invited Speaker** | Ugo Dal Lago. Counting Qubits and Gates: Resource Analysis in Quantum Programming Languages | chair: TBA |
 | 10:30-11:00 | ☕️_Coffee break_ | | |
 | **11:00-13:00** | **Session 4: Programming Languages** | Chair: TBA | |
 | 11:00-11:30 | | Kai-Oliver Prott and Michael Hanus. |  Determinism Types for Functional Logic Programming. | 
