@@ -12,7 +12,7 @@ hide_footer: false
 
 | Time | Session      | Authors | Paper |
 | ----------- | ----------- | ----------- | ----------- |
-| 08:30-9:20 | 📑Registration | | |
+| 08:30-9:20 | 📑Registration (🏛️ Room “BATS” Library) | | |
 | 09:20-9:30 | Opening | | |
 | **09:30-10:30** | **Invited Speaker (joint with LOPSTR)** | **Robbert Krebbers**. Mechanized Type Soundness for Substructural Types using Iris  | chair: Santiago Escobar |
 | 10:30-11:00 | ☕️_Coffee break_ | | |
