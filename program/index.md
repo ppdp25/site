@@ -27,7 +27,7 @@ hide_footer: false
 | 15:30-16:00 | | Jan-Christoph Kassing, Leon Spitzer and Jürgen Giesl. |  Dependency Pairs for Expected Innermost Runtime Complexity and Strong Almost-Sure Termination of Probabilistic Term Rewriting. |
 | 16:00-16:30 | | Maribel Fernandez and Jose Meseguer. |  Formalizing Languages with Binding Operators in Rewriting Logic. |
 | 16:30-17:00 | ☕️_Coffee break_ | | |
-| **17:00-18:30** | **Session 3: Programming Languages and Concurrency** | Chair: TBA | |
+| **17:00-18:30** | **Session 3: Programming Languages and Concurrency** | Chair: Peter Van-Roy | |
 | 17:00-17:30 | | Mart Lubbers and Tim Steenvoorden. |  A Reflection on Task-Oriented Programming. |
 | 17:30-18:00 | | Cinzia Di Giusto, Pascal Urso and Etienne Lozes. | Realisability and Complementability of Multiparty Session Types. | 
 | 18:00-18:30 | | Valentin Pasquale and Álvaro García-Pérez. |  An interactive type checker for dependent types with general recursion (System Description). | 
@@ -40,7 +40,7 @@ hide_footer: false
 | 08:30-9:30 | 📑Registration | | |
 | **09:30-10:30** | **Invited Speaker** | Ugo Dal Lago. Counting Qubits and Gates: Resource Analysis in Quantum Programming Languages | chair: TBA |
 | 10:30-11:00 | ☕️_Coffee break_ | | |
-| **11:00-13:00** | **Session 4: Programming Languages** | Chair: TBA | |
+| **11:00-13:00** | **Session 4: Programming Languages** | Chair: Robbert Krebbers | |
 | 11:00-11:30 | | Kai-Oliver Prott and Michael Hanus. |  Determinism Types for Functional Logic Programming. | 
 | 11:30-12:00 | | Benedikt M. Rips, Niek Janssen, Mart Lubbers and Pieter Koopman. |  Shallowly Embedded Functions. | 
 | 12:00-12:30 | | Hamza Jaafar and Guilhem Jaber. |  Operational Game Semantics for generative algebraic effects. | 
