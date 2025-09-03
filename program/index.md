@@ -14,7 +14,7 @@ hide_footer: false
 | ----------- | ----------- | ----------- | ----------- |
 | 08:30-9:20 | 📑Registration | | |
 | 09:20-9:30 | Opening | | |
-| **09:30-10:30** | **Invited Speaker (joint with LOPSTR)** | **Robbert Krebbers**. Mechanized Type Soundness for Substructural Types using Iris  | chair: TBA |
+| **09:30-10:30** | **Invited Speaker (joint with LOPSTR)** | **Robbert Krebbers**. Mechanized Type Soundness for Substructural Types using Iris  | chair: Santiago Escobar |
 | 10:30-11:00 | ☕️_Coffee break_ | | |
 | **11:00-12:00** | **Session 1: Rewriting and Applications** | Chair: TBA | |
 | 11:00-11:30 | | Anna Vitali, Roberto Amadini and Maurizio Gabbrielli. |  Fixture Layout Optimization in Wood Industry: A Case Study. |
