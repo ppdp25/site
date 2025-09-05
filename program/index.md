@@ -13,8 +13,8 @@ hide_footer: false
 | Time | Session      | Authors | Paper |
 | ----------- | ----------- | ----------- | ----------- |
 | 08:30-9:20 | 📑Registration (🏛️ Room **"BATS"** Library) | | |
-| 09:20-9:30 | Opening (🏛️ Room **"E. Tarantelli"** Library)| | |
-| **09:30-10:30** | **Invited Speaker (joint with LOPSTR)** (🏛️ Room **"E. Tarantelli"** Library)| **Robbert Krebbers**. Mechanized Type Soundness for Substructural Types using Iris  | chair: Santiago Escobar |
+| 09:20-9:30 | Opening (🏛️ Room **"BATS"** Library)| | |
+| **09:30-10:30** | **Invited Speaker (joint with LOPSTR)** (🏛️ Room **"BATS"** Library)| **Robbert Krebbers**. Mechanized Type Soundness for Substructural Types using Iris  | chair: Santiago Escobar |
 | 10:30-11:00 | ☕️_Coffee break_ | | |
 | **11:00-12:00** | **Session 1: Rewriting and Applications** (🏛️ Room **"BATS"** Library)| Chair: Juergen Giesl | |
 | 11:00-11:30 | | Anna Vitali, Roberto Amadini and Maurizio Gabbrielli. |  Fixture Layout Optimization in Wood Industry: A Case Study. |
