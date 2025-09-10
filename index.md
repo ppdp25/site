@@ -10,6 +10,9 @@ hide_footer: false
 
 <img src="./images/unical-rende.jpg" style="width: 100%;" alt="University of Calabria, Rende">
 
+📣 **Preliminary Proceedings**
+A preliminary version of the proceedings is available [here](./program/ppdp-prem-procs.pdf). 
+
 📣 **Registration and Venue**
 
 _Early registration_ is 🔔open until July🔔, and Late until August.
