@@ -10,7 +10,7 @@ hide_footer: false
 
 <img src="./images/unical-rende.jpg" style="width: 100%;" alt="University of Calabria, Rende">
 
-✨✨  📣 ** Proceedings: ** The final proceedings are available in the [ACM Digital Library](https://dl.acm.org/doi/proceedings/10.1145/3756907). 
+✨✨  📣 **Proceedings**: The final proceedings are available in the [ACM Digital Library](https://dl.acm.org/doi/proceedings/10.1145/3756907). 
 
 📣 **Registration and Venue**
 
